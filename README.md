@@ -22,4 +22,8 @@ This website is designed with a clean and intuitive interface that makes it easy
 
 <img width="929" alt="tube30" src="https://user-images.githubusercontent.com/76811531/228045913-1ccccf96-58e4-4b5f-b720-0b8c7ae0b1ed.png">
 
+### Search for any channel 
+channelDetails.jsx page will open with the details of the channel and videos related to that channel
+
+<img width="936" alt="tube4" src="https://user-images.githubusercontent.com/76811531/228047787-9ee52118-13c4-43c7-a6c6-d2d798e8b311.png">
 
