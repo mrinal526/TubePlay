@@ -10,14 +10,17 @@ This website is designed with a clean and intuitive interface that makes it easy
 
 
 ### Home Page
+<img width="954" alt="tube10" src="https://user-images.githubusercontent.com/76811531/228042904-d9712c44-488b-4c13-a78e-fb557ed81e9b.png">
 
 
 
+### Find the videos you love by navigating through sidebar
+<img width="960" alt="tube2" src="https://user-images.githubusercontent.com/76811531/228044912-2e1b91d4-46af-4805-ba89-4e24f96c2581.png">
 
-### Deployment
 
+### Search for any video you love
 
-### `npm run build` fails to minify
+<img width="929" alt="tube30" src="https://user-images.githubusercontent.com/76811531/228045913-1ccccf96-58e4-4b5f-b720-0b8c7ae0b1ed.png">
 
 ### `npm run build`
 
