@@ -22,10 +22,4 @@ This website is designed with a clean and intuitive interface that makes it easy
 
 <img width="929" alt="tube30" src="https://user-images.githubusercontent.com/76811531/228045913-1ccccf96-58e4-4b5f-b720-0b8c7ae0b1ed.png">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
