@@ -10,7 +10,7 @@ This website is designed with a clean and intuitive interface that makes it easy
 
 
 ### Home Page
-<img width="954" alt="tube10" src="https://user-images.githubusercontent.com/76811531/228042904-d9712c44-488b-4c13-a78e-fb557ed81e9b.png">
+<img width="954" alt="tube10" src="https://drive.google.com/drive/u/1/folders/1_px2GUKQTvkOjLYU-cNP1UIfVHGWE1WA">
 
 
 
